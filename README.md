@@ -10,10 +10,18 @@ NodeJS・Python・Django・Java・Spring Boot・SQL・GLSL・C++・WebGL・WebGP
 
 # TALKS & COMMUNITY PROJECTS
 
-## Webassembly & WebGPU  W3C Community Member
-## Introduction to AssemblyScript (WebAssemblyEU 2018)
-## Shared Memory & Parallel Programming with JavaScript (JS Conference EU 2017)
-## TurboScript | AssemblyScript | X-Ray Renderer | LZMA | Adobe Flash XFL Compiler
+- Webassembly & WebGPU  W3C Community Member
+- [Introduction to AssemblyScript (WebAssemblyEU 2018)](https://www.meetup.com/WebAssembly/events/252271717/)
+- [Shared Memory & Parallel Programming with JavaScript (JS Conference EU 2017)](https://2017.jsconf.eu/speakers/nidin-vinayakan-shared-memory-parallel-programming-with-javascript)
+- [TurboScript] | [AssemblyScript] | [X-Ray Renderer] | [LZMA] | [Adobe Flash XFL Compiler]
+
+
+[TurboScript]:https://github.com/01alchemist/TurboScript
+[AssemblyScript]:https://github.com/AssemblyScript/assemblyscript
+[X-Ray Renderer]:https://github.com/01alchemist/x-ray.js
+[LZMA]:https://github.com/nidin/TS-LZMA
+[Adobe Flash XFL Compiler]:https://github.com/nidin/as3-XFL-compiler
+
 
 <!--
 **nidin/nidin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
